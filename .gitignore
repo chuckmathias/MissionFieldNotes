@@ -1,0 +1,18 @@
+# Tool-specific directories
+env/
+backups/
+build/
+build-dir/
+dist/
+repo/
+tests/
+.flatpak-builder/
+
+# OS Generated Files
+.Trash-*         # Linux
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tar
+*.flatpak
